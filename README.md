@@ -1,4 +1,4 @@
-# Alex_Stegamography
+# Alex_Steganography
 A program written in Java to stimluate a way to embed information behind photots, called Steganography
 
 How It Works
